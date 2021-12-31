@@ -1,13 +1,12 @@
 package not.epic.chuck.norris.joke.generator;
 
 
-/*********************************************************************
- *
- *
- *     Made as a exercise to use APIs. Most of the code came from
- *     the great Interwebs. Thanks.
- *
- * *******************************************************************/
+/********************************************************************
+
+
+ Made as a exercise to use APIs. Most of the code came from
+ the great Interwebs. Thanks.
+ *******************************************************************/
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
