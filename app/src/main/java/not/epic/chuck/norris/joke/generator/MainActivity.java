@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void getData() {
-
+        // GET method
         StringRequest myRequest = new StringRequest( Request.Method.GET, myUrl, response -> {
             try {
                 //Create a JSON object containing information from the API
